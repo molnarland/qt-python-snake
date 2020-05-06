@@ -1,0 +1,3 @@
+{
+    "files": ["Game/View.py","Menu/ui_menu.py","Game/__init__.py","Menu/__init__.py","Menu/Menu.py","main.py","Menu/menu.ui","loop.py","Game/Game.py","Game/Snake/SnakeBody.py","Game/Snake/__init__.py"]
+}
